@@ -136,7 +136,7 @@ function Get-WebSession()
 }
 
 $protocol = 'http://'
-$wiki = 'wiki.holmans.com/'
+$wiki = 'wiki.####.com/'
 $api = 'api.php'
 $username = ''
 $password = ''
